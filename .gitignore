@@ -1,3 +1,5 @@
 venv*
 .env_to_load
 *.pyc
+.coveralls.yml
+experiments
